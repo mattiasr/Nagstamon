@@ -5,4 +5,4 @@ python:
 #install:
 
 script:
-  - nosetests -vv Nagstamon/test
+  - nosetests --pdb -vv Nagstamon/test
